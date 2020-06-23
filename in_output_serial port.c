@@ -28,6 +28,7 @@ void main()
 
    }
     while(1);
+    while(fputs(src));
 }
 void fputs(unsigned char *s1)
 {
